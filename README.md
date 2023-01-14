@@ -1,4 +1,4 @@
-Project 2: Content-based Image Retrieval
+# Project 2: Content-based Image Retrieval
 
 1.Links/URLs to video created.
 https://kapwi.ng/c/UkBBBPMaV9
